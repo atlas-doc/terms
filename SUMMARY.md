@@ -1,4 +1,5 @@
-# Summary
+# Table of contents
 
-* [Introduction](README.md)
+* [Terms of Services](TermsofServiceIntro.md)
+  * [Atlas Email Service](AtlasEmailService.md)
 
