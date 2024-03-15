@@ -1,3 +1,5 @@
+![](</.gitbook/assets/ATL_002_Gitbook-headers_Atlas.png>)
+
 # ***Terms of Services***
 
 - These Terms of Services apply to the following services which Atlas provides you.
