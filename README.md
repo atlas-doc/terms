@@ -3,7 +3,7 @@
 # ***Terms of Services***
 
 - These Terms of Services apply to the following services which Atlas provides you.
-  - [Atlas Email Service](AtlasEmailServicet.md)
+  - [Atlas Email Service](AtlasEmailService.html)
  
 
 
