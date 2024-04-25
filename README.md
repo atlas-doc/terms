@@ -7,5 +7,6 @@ The Terms of Service are a schedule to the Customer Agreement signed between you
 
 Currently, the Terms of Service apply to the following services which Atlas provides to you:
   - [Atlas Email Service](AtlasEmailService.html)
+  - [Atlas Ticketing Commitment](AtlasTicketingCommitment.html)
 
 
