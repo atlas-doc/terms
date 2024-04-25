@@ -1,4 +1,4 @@
-# **Atlas Ticketing Commitment ** 
+# **Atlas Ticketing Commitment** 
 
 
 These Terms of Service ('Terms') detail the conditions of the Atlas Ticketing Guarantee Service, which is automatically provided to a customer of Atlas (“you” or “your” as the case may be) utilizing Atlas' ticketing services. Please review these Terms carefully. By purchasing a ticket from Atlas, you are automatically enrolled in the Atlas Ticketing Guarantee Service, and you agree to abide by these Terms as well as all applicable laws and regulations.  
