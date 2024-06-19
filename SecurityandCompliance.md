@@ -58,7 +58,7 @@ How to set up your Access Keys on the ATRIP Flight Deck:
 
 - To avoid disruption in our service, you need to regularly update your keys and reset their expiry date.
 
-**To ensure you receive all our updates and important information, please add our email address to your trusted contacts list. This will prevent our messages from ending up in your spam folder.** 
+**To ensure you receive all our updates and important information, please add our email address noreply@atriptech.com to your trusted contacts list. This will prevent our messages from ending up in your spam folder.** 
 
 **2. SINGLE SIGN-ON (SSO)**
 
