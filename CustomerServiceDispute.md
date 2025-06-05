@@ -1,6 +1,6 @@
 # Atlas Customer Service Dispute Handling Principles
 
-\
+
 ### **1. Service Irregularities Definition**
 
 Atlas shall provide remedies for operational failures attributable to Atlas that prevent ticket fulfillment, excluding disputes arising from ambiguous rule interpretations.
@@ -16,7 +16,7 @@ Atlas shall provide remedies for operational failures attributable to Atlas that
 
 **Trigger**:
 
-Inability to fulfill orders due to flight sellout after payment.
+Inability to fulfill orders due to flight sold out after payment.
 
 **Remedies**:
 
