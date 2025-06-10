@@ -7,6 +7,7 @@ The Terms of Service are a schedule to the Customer Agreement signed between you
 
 Currently, the Terms of Service apply to the following services which Atlas provides to you:
   - [Atlas Email Service](AtlasEmailService.md)
-  - [Atlas Ticketing Commitment](AtlasTicketingCommitment.md)
+  - [Atlas Customer Service Dispute Handling Principles](CustomerServiceDispute.md)
   - [Atlas Security and Compliance](SecurityandCompliance.md)
+  - [Credit Card Usage Notice](CreditCardUsageNotice.md)
 
